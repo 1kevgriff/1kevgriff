@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## What's Up On ConsultWithGriff.com
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
