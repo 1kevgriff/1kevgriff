@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## What's Up On ConsultWithGriff.com
 <!--START_SECTION:feed-->
-* [A Diet Programmers Can Relate To](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;a-diet-programmers-can-relate-to&#x2F;)
-* [Definition of a Computer Scientist](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;definition-of-a-computer-scientist&#x2F;)
-* [Wildcard search with LINQ](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;wildcard-search-with-linq&#x2F;)
-* [What Makes A Good Bug Report?](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;what-makes-a-good-bug-report&#x2F;)
-* [My Attempt at LINQ Pagination](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;my-attempt-at-linq-pagination&#x2F;)
+* [SignalR Mastery Year in Review 2022](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;signalr-mastery-year-in-review-2022&#x2F;)
+* [Rapid Project Upgrades with the .NET Upgrade Assistant](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;rapid-project-upgrades-with-dotnet-upgrade-assistant&#x2F;)
+* [Streaming an MP4 to Twitch and YouTube with FFMPEG](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;streaming-mp4-to-twitch-youtube-with-ffmpeg&#x2F;)
+* [Does SignalR Guarantee Message Deliverability?](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;signalr-message-guarantee-deliverability&#x2F;)
+* [SignalR AbortController is Undefined on Older Browsers](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;signalr-abortcontroller-undefined&#x2F;)
 <!--END_SECTION:feed-->
