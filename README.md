@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## What's Up On ConsultWithGriff.com
 <!--START_SECTION:feed-->
+* [Building Windows Services in .NET 7](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;building-window-services-in-dotnet&#x2F;)
+* [Reconsidering Vanity Metrics](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;vanity-metrics&#x2F;)
+* [Fewer Buzzwords, Better Teams](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;fewer-buzzwords-better-teams&#x2F;)
 * [SignalR Mastery Year in Review 2022](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;signalr-mastery-year-in-review-2022&#x2F;)
 * [Rapid Project Upgrades with the .NET Upgrade Assistant](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;rapid-project-upgrades-with-dotnet-upgrade-assistant&#x2F;)
-* [Streaming an MP4 to Twitch and YouTube with FFMPEG](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;streaming-mp4-to-twitch-youtube-with-ffmpeg&#x2F;)
-* [Does SignalR Guarantee Message Deliverability?](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;signalr-message-guarantee-deliverability&#x2F;)
-* [SignalR AbortController is Undefined on Older Browsers](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;signalr-abortcontroller-undefined&#x2F;)
 <!--END_SECTION:feed-->
