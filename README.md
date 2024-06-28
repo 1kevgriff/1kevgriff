@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## What's Up On ConsultWithGriff.com
 <!--START_SECTION:feed-->
+* [Hampton Roads DevFest 2024 Retrospective](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;hampton-roads-devfest-2024-retrospective&#x2F;)
 * [HttpContext Issues with Azure SignalR Service](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;httpcontext-issues-azure-signalr-service&#x2F;)
 * [Five Reasons Why I Love HangFire](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;five-reasons-why-i-love-hangfire&#x2F;)
 * [Building Background Services with HangFire Course Launch!](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;building-background-services-with-hangfire-course-launch&#x2F;)
 * [Building Windows Services in .NET 7](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;building-window-services-in-dotnet&#x2F;)
-* [Reconsidering Vanity Metrics](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;vanity-metrics&#x2F;)
 <!--END_SECTION:feed-->
