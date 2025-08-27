@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## What's Up On ConsultWithGriff.com
 <!--START_SECTION:feed-->
+* [Framework 16 Laptop Review](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;framework-16-laptop-review&#x2F;)
 * [Tech Communities, AI in Development and Roller Coasters | Fervent Four Podcast](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;fervent-four-podcast-tech-communities&#x2F;)
 * [Azure Cloud Talk Podcast: The Accidental CTO](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;azure-cloud-talk-accidental-cto&#x2F;)
 * [My $8,000 Serverless Mistake](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;my-8000-serverless-mistake&#x2F;)
 * [Azure Functions: No bindings were found in the function $func](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;azure-function-no-bindings-found-in-function&#x2F;)
-* [Hampton Roads DevFest 2024 Retrospective](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;hampton-roads-devfest-2024-retrospective&#x2F;)
 <!--END_SECTION:feed-->
