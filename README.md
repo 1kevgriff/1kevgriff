@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## What's Up On ConsultWithGriff.com
 <!--START_SECTION:feed-->
+* [SQL Server Pagination with COUNT(*) OVER() Window Function](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;sql-pagination-count-over-trick&#x2F;)
 * [What&#39;s New in C# 14: Extension Members](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;csharp-14-extension-members&#x2F;)
 * [Framework 16 Laptop Review](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;framework-16-laptop-review&#x2F;)
 * [Tech Communities, AI in Development and Roller Coasters | Fervent Four Podcast](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;fervent-four-podcast-tech-communities&#x2F;)
 * [Azure Cloud Talk Podcast: The Accidental CTO](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;azure-cloud-talk-accidental-cto&#x2F;)
-* [My $8,000 Serverless Mistake](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;my-8000-serverless-mistake&#x2F;)
 <!--END_SECTION:feed-->
