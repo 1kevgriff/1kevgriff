@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## What's Up On ConsultWithGriff.com
 <!--START_SECTION:feed-->
+* [Engineering for System Uptime | Azure DevOps Podcast Episode 387](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;engineering-for-system-uptime-azure-devops-podcast&#x2F;)
 * [SQL Server Pagination with COUNT(*) OVER() Window Function](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;sql-pagination-count-over-trick&#x2F;)
 * [What&#39;s New in C# 14: Extension Members](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;csharp-14-extension-members&#x2F;)
 * [Framework 16 Laptop Review](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;framework-16-laptop-review&#x2F;)
 * [Tech Communities, AI in Development and Roller Coasters | Fervent Four Podcast](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;fervent-four-podcast-tech-communities&#x2F;)
-* [Azure Cloud Talk Podcast: The Accidental CTO](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;azure-cloud-talk-accidental-cto&#x2F;)
 <!--END_SECTION:feed-->
