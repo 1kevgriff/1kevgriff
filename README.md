@@ -1,25 +1,26 @@
-### Hi there 👋
+### Hi, I'm Kevin 👋
 
-<!--
-**1kevgriff/1kevgriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Microsoft MVP (16x) building business systems in .NET and Microsoft Azure.
 
-Here are some ideas to get you started:
+- 🏗️ I help engineering teams ship reliable .NET + Azure systems
+- 🎤 Speaker · 📝 Writer at [consultwithgriff.com](https://consultwithgriff.com)
+- 🏢 CTO @ Shows On Sale · President @ .NET Foundation & RevolutionVA
+- 🎢 Random fact: I'm a roller coaster nut
+- 📍 Working from my #shedquarters in Chesapeake, VA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me elsewhere
+
+- 🌐 [consultwithgriff.com](https://consultwithgriff.com)
+- 🦋 [Bluesky](https://bsky.app/profile/consultwithgriff.com)
+- 𝕏 [X / Twitter](https://x.com/1kevgriff)
+- 💼 [LinkedIn](https://www.linkedin.com/in/1kevgriff/)
+- 🐘 [Mastodon](https://bbiz.io/@1kevgriff)
 
 ## What's Up On ConsultWithGriff.com
 <!--START_SECTION:feed-->
-* [How Claude Helped Me Apply for My 17th Microsoft MVP Renewal](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;how-claude-helped-with-my-mvp-application&#x2F;)
-* [How C# Strings Silently Kill Your SQL Server Indexes in Dapper](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;dapper-nvarchar-implicit-conversion-performance-trap&#x2F;)
-* [Engineering for System Uptime | Azure DevOps Podcast Episode 387](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;engineering-for-system-uptime-azure-devops-podcast&#x2F;)
-* [SQL Server Pagination with COUNT(*) OVER() Window Function](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;sql-pagination-count-over-trick&#x2F;)
-* [What&#39;s New in C# 14: Extension Members](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;csharp-14-extension-members&#x2F;)
+* [How Claude Helped Me Apply for My 17th Microsoft MVP Renewal](https://consultwithgriff.com/how-claude-helped-with-my-mvp-application/)
+* [How C# Strings Silently Kill Your SQL Server Indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap/)
+* [Engineering for System Uptime | Azure DevOps Podcast Episode 387](https://consultwithgriff.com/engineering-for-system-uptime-azure-devops-podcast/)
+* [SQL Server Pagination with COUNT(*) OVER() Window Function](https://consultwithgriff.com/sql-pagination-count-over-trick/)
+* [What's New in C# 14: Extension Members](https://consultwithgriff.com/csharp-14-extension-members/)
 <!--END_SECTION:feed-->
