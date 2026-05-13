@@ -18,9 +18,9 @@ Microsoft MVP (16x) building business systems in .NET and Microsoft Azure.
 
 ## What's Up On ConsultWithGriff.com
 <!--START_SECTION:feed-->
-* [How Claude Helped Me Apply for My 17th Microsoft MVP Renewal](https://consultwithgriff.com/how-claude-helped-with-my-mvp-application/)
-* [How C# Strings Silently Kill Your SQL Server Indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap/)
-* [Engineering for System Uptime | Azure DevOps Podcast Episode 387](https://consultwithgriff.com/engineering-for-system-uptime-azure-devops-podcast/)
-* [SQL Server Pagination with COUNT(*) OVER() Window Function](https://consultwithgriff.com/sql-pagination-count-over-trick/)
-* [What's New in C# 14: Extension Members](https://consultwithgriff.com/csharp-14-extension-members/)
+* [How Claude Helped Me Apply for My 17th Microsoft MVP Renewal](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;how-claude-helped-with-my-mvp-application&#x2F;)
+* [How C# Strings Silently Kill Your SQL Server Indexes in Dapper](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;dapper-nvarchar-implicit-conversion-performance-trap&#x2F;)
+* [Engineering for System Uptime | Azure DevOps Podcast Episode 387](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;engineering-for-system-uptime-azure-devops-podcast&#x2F;)
+* [SQL Server Pagination with COUNT(*) OVER() Window Function](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;sql-pagination-count-over-trick&#x2F;)
+* [What&#39;s New in C# 14: Extension Members](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;csharp-14-extension-members&#x2F;)
 <!--END_SECTION:feed-->
