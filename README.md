@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin 👋
 
-Microsoft MVP (16x) building business systems in .NET and Microsoft Azure.
+Microsoft MVP (17x) building business systems in .NET and Microsoft Azure.
 
 - 🏗️ I help engineering teams ship reliable .NET + Azure systems
 - 🎤 Speaker · 📝 Writer at [consultwithgriff.com](https://consultwithgriff.com)
