@@ -1,10 +1,10 @@
 ### Hi, I'm Kevin 👋
 
-Microsoft MVP (17x) building business systems in .NET and Microsoft Azure.
+Microsoft MVP (17x) building with .NET, Azure + AI agents, and sharing what works.
 
 - 🏗️ I help engineering teams ship reliable .NET + Azure systems
 - 🎤 Speaker · 📝 Writer at [consultwithgriff.com](https://consultwithgriff.com)
-- 🏢 CTO @ Shows On Sale · President @ .NET Foundation & RevolutionVA
+- 🏢 President @ RevolutionVA · Hampton Roads DevFest organizer
 - 🎢 Random fact: I'm a roller coaster nut
 - 📍 Working from my #shedquarters in Chesapeake, VA
 
