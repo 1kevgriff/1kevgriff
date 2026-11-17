@@ -18,9 +18,9 @@ Microsoft MVP (17x) building with .NET, Azure + AI agents, and sharing what work
 
 ## What's Up On ConsultWithGriff.com
 <!--START_SECTION:feed-->
+* [.NET Conf 2026 Day 1: .NET 11, C# 15 Unions, and Faster Builds](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;dotnet-conf-2026-day-1-recap&#x2F;)
+* [.NET Conf 2026 Day 2: Visual Studio, Resilient Blazor, and AI Workflows](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;dotnet-conf-2026-day-2-recap&#x2F;)
+* [How I Livetweeted .NET Conf Without Watching (All of) It](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;how-i-livetweeted-dotnet-conf-without-watching-it&#x2F;)
 * [Using AI Bots to Help Run Community Conferences](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;using-ai-bots-to-help-run-community-conferences&#x2F;)
 * [I&#39;m a Builder, Not a Craftsman | Coffee and Open Source](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;builder-not-craftsman-coffee-and-open-source&#x2F;)
-* [How Claude Helped Me Apply for My 17th Microsoft MVP Renewal](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;how-claude-helped-with-my-mvp-application&#x2F;)
-* [How C# Strings Silently Kill Your SQL Server Indexes in Dapper](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;dapper-nvarchar-implicit-conversion-performance-trap&#x2F;)
-* [Engineering for System Uptime | Azure DevOps Podcast Episode 387](https:&#x2F;&#x2F;consultwithgriff.com&#x2F;engineering-for-system-uptime-azure-devops-podcast&#x2F;)
 <!--END_SECTION:feed-->
